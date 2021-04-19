@@ -1,6 +1,6 @@
 # UNSPLASH API
 
-This is an Express REST API service for [UNSPLASH](https://unsplash.com/)
+This is an Express REST API service using [UNSPLASH API](https://unsplash.com/documentation)
 
 ## Table of content
 
