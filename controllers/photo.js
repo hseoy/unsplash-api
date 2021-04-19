@@ -27,7 +27,8 @@ const handleGetRandomPhotos = async (req, res) => {
       query,
       count,
     });
-    return res.json(photos.response.results);
+    console.log(photos);
+    return res.json(photos.response);
   } catch {
     return res.status(400).json('Query parameters are not valid');
   }
