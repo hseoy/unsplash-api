@@ -19,7 +19,7 @@ This is an Express REST API service using [UNSPLASH API](https://unsplash.com/do
 1. Clone this repository
 
 ```
-$ git clone https://github.com/hseoy/news-viewr-api
+$ git clone https://github.com/hseoy/unsplash-api
 ```
 
 2. Get the API key from [here](https://unsplash.com/developers). Then modify the .env.dev
